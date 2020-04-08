@@ -1,0 +1,20 @@
+[
+    {
+        nombre: 'Pizza',
+        Ingredientes:[
+            {
+                nombre: 'tomate',
+                cantidad: 5
+            },
+            {
+                nombre: 'queso',
+                cantidad: 8
+            },
+            {
+                nombre: 'masa',
+                cantidad: 2
+            }
+        ],
+        calorias: 300
+    }
+]
